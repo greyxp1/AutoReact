@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
-  "author": "Your name here",
-  "description": "An example shelter plugin"
+  "name": "AutoReact",
+  "author": "Greyxp1",
+  "description": "Automatically adds a reaction to every message in a channel via API"
 }
